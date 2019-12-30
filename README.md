@@ -84,21 +84,21 @@ Here are a few of the principles that can inform our data visualisation efforts:
 A lot of data sets media are reporting on today also have the geographical component and therefore lend themselves well to mapping. The concept of mapping data was first pioneered by the data scientist John Snow who in the 1850s mapped Cholera cases and deaths onto a map, quickly uncovering the source of the disease.
 
 * In order work with maps it is important to convert addresses to lat/long geocodes.
-* _[Quantum GIS](https://qgis.org/en/site/)_ - is an open source tool for producing basic static maps.
-* _[Carto](https://carto.com/)_ - is an online tool for making interactive maps with filters, counters, hover over effects; or animated maps, which change over time, to reflect time passing.
-* _[Flourish studio](https://flourish.studio/)_
-* _[Google Maps](https://www.google.com/maps/@46.5597339,6.7306405,15z)_
-* _[Google My Maps](https://www.google.com/maps/about/mymaps/)_
-* _[Google Earth Pro](https://www.google.com/earth/versions/#earth-pro)_
-* _[Google Earth Studio](https://www.google.com/earth/studio/)_
+* [Quantum GIS](https://qgis.org/en/site/) - is an open source tool for producing basic static maps.
+* [Carto](https://carto.com/) - is an online tool for making interactive maps with filters, counters, hover over effects; or animated maps, which change over time, to reflect time passing.
+* [Flourish studio](https://flourish.studio/)
+* [Google Maps](https://www.google.com/maps/@46.5597339,6.7306405,15z)
+* [Google My Maps](https://www.google.com/maps/about/mymaps/)
+* [Google Earth Pro](https://www.google.com/earth/versions/#earth-pro)
+* [Google Earth Studio](https://www.google.com/earth/studio/)
 
 ### Charting
-* _[Chartblocks](https://www.chartblocks.com/en/) - is a static chart generator.
-* _[RAWGraphs](https://rawgraphs.io/) - produces more exotic, less common visualisations and the outputs are also vector graphics
-* _[Data GIF maker](https://datagifmaker.withgoogle.com/)
-* _[Flourish studio](https://flourish.studio/)_
-* _[Data wrapper](https://www.datawrapper.de/)_
-* _[Tableau](https://www.tableau.com/)
+* [Chartblocks](https://www.chartblocks.com/en/) - is a static chart generator.
+* [RAWGraphs](https://rawgraphs.io/) - produces more exotic, less common visualisations and the outputs are also vector graphics
+* [Data GIF maker](https://datagifmaker.withgoogle.com/)
+* [Flourish studio](https://flourish.studio/)
+* [Data wrapper](https://www.datawrapper.de/)
+* [Tableau](https://www.tableau.com/)
 
 ## (5) GOING VIRAL
 
