@@ -102,6 +102,6 @@ A lot of data sets media are reporting on today also have the geographical compo
 
 ## (5) GOING VIRAL
 
-* _Optimizely_: Is a tool that can be used A/B testing variants, such as headlines, images etc.
-* _Google Alerts_: Use google alerts to inform you if content has achieve an unacceptably low engagement, so that you can troubleshoot the content.
+* Optimizely: Is a tool that can be used A/B testing variants, such as headlines, images etc.
+* Google Alerts: Use google alerts to inform you if content has achieve an unacceptably low engagement, so that you can troubleshoot the content.
 * Build a social media army of influencers who can re-shares your content.
