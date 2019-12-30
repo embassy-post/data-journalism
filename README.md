@@ -1,7 +1,5 @@
 # data-journalism
 
-[![](https://ibb.co/60qbG0Z)](https://www.youtube.com/watch?v=h2zbvmXskSE)
-
 >"Data journalism begins in one of two ways: either you have a question that needs data, or a dataset that needs questioning. >Whichever it is, the compilation of data is what defines it as an act of data journalism." ~ Paul Bradshaw
 
 ## (1) COURSES
@@ -81,7 +79,7 @@ Here are a few of the principles that can inform our data visualisation efforts:
 * _Continuity_ - Objects that are aligned together or appear to be a continuation of one another are perceived as a group.
 * _Connection_ - Objects that are connected (e.g., by a line) are perceived as a group.
 
-###Geo and mapping
+### Geo and mapping
 
 A lot of data sets media are reporting on today also have the geographical component and therefore lend themselves well to mapping. The concept of mapping data was first pioneered by the data scientist John Snow who in the 1850s mapped Cholera cases and deaths onto a map, quickly uncovering the source of the disease.
 
@@ -101,9 +99,6 @@ A lot of data sets media are reporting on today also have the geographical compo
 * _[Flourish studio](https://flourish.studio/)_
 * _[Data wrapper](https://www.datawrapper.de/)_
 * _[Tableau](https://www.tableau.com/)
-
-_Examples_
-[![](https://ibb.co/chvsKbX](https://www.thedetail.tv/articles/how-integrated-are-schools-where-you-live)
 
 ## (5) GOING VIRAL
 
